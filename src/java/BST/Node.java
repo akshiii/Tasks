@@ -1,4 +1,4 @@
-//package task3;
+package task3;
 
 public class Node {
 	public Node left,right;
